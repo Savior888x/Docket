@@ -1,0 +1,177 @@
+[
+  {
+    "CaseInformation": {
+      "CaseNumber": "20STCV36044",
+      "CaseTitle": "LAURA ALCARAZ, ET AL. VS LOS ANGELES COUNTY METROPOLITAN TRANSPORTATION AUTHORITY",
+      "FilingCourthouse": "Spring Street Courthouse",
+      "FilingDate": "2020-09-21",
+      "CaseType": "Motor Vehicle - PI / Property Damage / Wrongful Death",
+      "Status": "Request for Dismissal (pending/updated filings through 2025)"
+    },
+    "Judges": [
+      "Daniel M. Crowley",
+      "Lynne M. Hobbs",
+      "Michelle C. Kim",
+      "Serena R. Murillo",
+      "Steven A. Ellis"
+    ],
+    "Parties": [
+      {
+        "name": "Laura Alcaraz",
+        "role": "Plaintiff"
+      },
+      {
+        "name": "Los Angeles County Metropolitan Transportation Authority",
+        "role": "Defendant",
+        "alias": "LA Metro"
+      }
+    ],
+    "Attorneys": [
+      {
+        "name": "Arutyun Harry Nalbandyan",
+        "role": "Plaintiff Counsel"
+      },
+      {
+        "name": "Rusty Levin",
+        "role": "Plaintiff Counsel"
+      },
+      {
+        "name": "Gabriel Horace Wainfeld",
+        "role": "Defense Counsel"
+      },
+      {
+        "name": "Joshua Benyamin Adelpour",
+        "role": "Defense Counsel"
+      }
+    ],
+    "KeyCourtRuling": {
+      "date": "2023-03-27",
+      "judge": "Serena R. Murillo",
+      "summary": "Motion to compel deposition granted; sanctions denied due to medical hardship; deposition ordered."
+    },
+    "DocumentsSummary": {
+      "total_categories": [
+        "Motions (discovery, continuance, relief from counsel)",
+        "Orders & minute orders",
+        "Settlement/dismissal filings",
+        "Trial scheduling events"
+      ],
+      "note": "Full document list provided in source input is extensive and preserved conceptually."
+    },
+    "ProceedingsSummary": {
+      "pattern": "Repeated discovery motions, continuances, OSC re dismissal, trial settings from 2021–2026"
+    }
+  },
+  {
+    "contact": [
+      {
+        "name": "Laura Alcaraz",
+        "role": "Plaintiff"
+      },
+      {
+        "name": "Los Angeles County Metropolitan Transportation Authority",
+        "role": "Defendant",
+        "alias": "LA Metro",
+        "type": "Public Entity",
+        "address": "One Gateway Plaza, Los Angeles, CA 90012"
+      },
+      {
+        "name": "Arutyun Harry Nalbandyan",
+        "role": "Plaintiff Attorney",
+        "bar_number": "305116",
+        "firm": "LNN Law",
+        "contact": {
+          "address": "11132 Ventura Boulevard, Studio City, CA 91604",
+          "phone": "213-232-4848",
+          "fax": "213-232-4849",
+          "email": "harry@lnnlaw.com",
+          "website": "https://www.lnnlaw.com/"
+        }
+      },
+      {
+        "name": "Rusty Levin",
+        "role": "Plaintiff Attorney / Firm Partner",
+        "bar_number": "272030",
+        "firm": "Levin & Nalbandyan LLP",
+        "contact": {
+          "address": "11132 Ventura Blvd., Studio City, CA 91604",
+          "phone": "213-232-4848",
+          "fax": "213-232-4849",
+          "email": "rlevin@lnnlaw.com",
+          "website": "https://lntriallawyers.com/"
+        }
+      },
+      {
+        "name": "Gabriel Horace Wainfeld",
+        "role": "Defense Counsel",
+        "bar_number": "136672",
+        "firm": "York & Wainfeld",
+        "contact": {
+          "address": "9301 Oakdale Ave, Suite 220, Chatsworth, CA 91311-6547",
+          "phone": "818-703-8500",
+          "fax": "818-703-8088",
+          "email": "gwainfeld@ywlaw.com",
+          "website": "https://www.ywlaw.com/"
+        }
+      },
+      {
+        "name": "Joshua Benyamin Adelpour",
+        "role": "Defense Counsel",
+        "bar_number": "318226",
+        "firm": "NMF Law Group, APC",
+        "contact": {
+          "address": "21051 Warner Center Ln, Ste 210, Woodland Hills, CA 91367-6597",
+          "phone": "213-800-0706",
+          "email": "Josh@nmflawgroup.com",
+          "website": "https://www.NMFLawGroup.com/"
+        }
+      },
+      {
+        "name": "Gor Nalbandyan Asryan",
+        "role": "Indemnifier / Counsel",
+        "bar_number": "351553",
+        "firm": "Levin & Nalbandyan LLP",
+        "contact": {
+          "address": "11132 Ventura Blvd, Studio City, CA 91604",
+          "phone": "213-232-4848",
+          "email": "gasryan@lntriallawyers.com"
+        }
+      }
+    ]
+  },
+  {
+    "ProceduralSummary": {
+      "OverallPattern": "Extended civil PI litigation with repeated discovery disputes, trial continuances, settlement/dismissal cycles, and post-2024 motions affecting case status.",
+      "KeyPhases": [
+        "2020–2021: Filing, initial discovery, subpoenas, early motion practice",
+        "2021–2023: Intensive discovery disputes and deposition litigation",
+        "2023–2024: Trial settings, motions in limine, bifurcation, settlement notice",
+        "2024–2025: Dismissal filings, OSC re dismissal, counsel withdrawal motions",
+        "2025–2026: Post-dismissal/vacatur motions and procedural instability"
+      ]
+    },
+    "TentativeRuling_2023_03_27": {
+      "court": "Los Angeles County Superior Court",
+      "department": "29",
+      "judge": "Serena R. Murillo",
+      "motion": "Motion to Compel Deposition of Plaintiff",
+      "ruling": {
+        "deposition_compelled": true,
+        "order": "Plaintiff ordered to appear for deposition on March 28, 2023 or mutually agreed date within 30 days",
+        "sanctions": "DENIED"
+      },
+      "court_reasoning_summary": {
+        "discovery_history": "Deposition noticed multiple times over ~2 years without completion",
+        "non_appearance": "Repeated failures to appear or proceed with deposition",
+        "plaintiff_position": "Health complications including major surgery and amputation-related recovery",
+        "court_balancing": "Court found sanctions unjust due to medical hardship but required deposition to proceed",
+        "legal_basis": "CCP § 2025.450 (motion to compel deposition attendance)"
+      },
+      "legal_effect": {
+        "discovery_enforcement": "Deposition compelled despite hardship",
+        "financial_penalty": "Not imposed",
+        "case_posture": "Active discovery enforcement stage as of March 2023"
+      }
+    }
+  }
+]
